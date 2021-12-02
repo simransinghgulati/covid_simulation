@@ -43,5 +43,5 @@ On plotting graphs for the given scenarios, we conclude :
 ![graph 3](https://github.com/simransinghgulati/covid_simulation/blob/main/scenario_C.png?raw=true)
 
 ## Simulation results
-
+My algorithm received the highest grade in the class and below is the graphical represenation of the same.
 ![simulation](https://github.com/simransinghgulati/covid_simulation/blob/main/simulation_results.png?raw=true)
