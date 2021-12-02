@@ -22,4 +22,9 @@ On plotting graphs for the given scenarios, we conclude :
 ![graph 1](https://github.com/simransinghgulati/covid_simulation/blob/main/scenario_A.jpg?raw=true)
 
 Scenario B : Considering it an unlucky case, we see a gradual spread spread in the virus. Not as sudden as the Scenario A but the virus does hit a total count of 80+ cases.
+
+![graph 2](https://github.com/simransinghgulati/covid_simulation/blob/main/scenario_B.jpg?raw=true)
+
 Scenario C : There's an unprecedented rise and fall in number of cases by a unit or two. The curve doesn't flatten out, instead it barely grows and hits a low count of 7 cases at the 90th day.
+
+![graph 3](https://github.com/simransinghgulati/covid_simulation/blob/main/scenario_C.jpg?raw=true)
