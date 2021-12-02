@@ -41,3 +41,7 @@ On plotting graphs for the given scenarios, we conclude :
 ![python terminal screenshot](https://github.com/simransinghgulati/covid_simulation/blob/main/terminal_C.png?raw=true)
 
 ![graph 3](https://github.com/simransinghgulati/covid_simulation/blob/main/scenario_C.png?raw=true)
+
+## Simulation results
+
+![simulation](https://github.com/simransinghgulati/covid_simulation/blob/main/simulation_results.png?raw=true)
